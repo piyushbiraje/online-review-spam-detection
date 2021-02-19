@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 """
+Python program to extract/ web-scrape hotel reviews from TripAdvisor
+
+"""
+"""
 Created on Sat Nov  7 23:40:30 2020
 
 @author: piyus
